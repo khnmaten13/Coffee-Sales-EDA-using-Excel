@@ -18,7 +18,7 @@ The `products` dataset lists the available coffee products, with information on 
 
 ## Key Dashboard Insights
 
-[Dashboard](image.png)
+![Dashboard](image.png)
 
 ### 1. Total Sales
 Total sales are calculated based on the `orders` dataset, summing the **Sales** column.
